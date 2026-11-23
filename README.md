@@ -16,7 +16,7 @@ A Python application that uses Gemini and Pydantic to extract structured informa
 
 
 
-\*\*Technologies:\*\* Python, Gemini API, Pydantic
+Technologies: Python, Gemini API, Pydantic
 
 
 
@@ -26,7 +26,7 @@ A document question-answering application that loads PDF and text files, creates
 
 
 
-\*\*Technologies:\*\* Python, LangChain, Gemini, Hugging Face, ChromaDB, Streamlit
+Technologies: Python, LangChain, Gemini, Hugging Face, ChromaDB, Streamlit
 
 
 
@@ -36,7 +36,7 @@ An AI agent that autonomously uses external tools, including web search, a calcu
 
 
 
-\*\*Technologies:\*\* Python, LangChain, Gemini, DuckDuckGo
+Technologies: Python, LangChain, Gemini, DuckDuckGo
 
 
 
@@ -46,7 +46,7 @@ A conversational AI web application with streaming responses, chat history, sess
 
 
 
-\*\*Technologies:\*\* Python, Streamlit, LangChain, Gemini
+Technologies: Python, Streamlit, LangChain, Gemini
 
 
 
@@ -102,9 +102,9 @@ To run a project:
 
 
 
-\*\*Program:\*\* Python, Generative AI \& LangChain Internship  
+Program: Python, Generative AI \& LangChain Internship  
 
-\*\*Organization:\*\* Datheon
+Organization: Datheon
 
 
 
