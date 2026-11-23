@@ -1,0 +1,7 @@
+Q3 2026 Sales Report
+Product A revenue: 12500 USD
+Product B revenue: 8300 USD
+Product C revenue: 4200 USD
+Total units sold: 1520
+Notes: Product A grew 18% compared to Q2.
+ 
