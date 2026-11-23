@@ -1,4 +1,4 @@
-\# Datheon Python, Generative AI \& LangChain Internship
+# Datheon Python, Generative AI \& LangChain Internship
 
 
 
@@ -6,11 +6,11 @@ This repository contains four practical projects developed as part of the Datheo
 
 
 
-\## Projects
+## Projects
 
 
 
-\### Task 01 – Structured LLM JSON Extractor
+### Task 01 – Structured LLM JSON Extractor
 
 A Python application that uses Gemini and Pydantic to extract structured information from documents and produce validated JSON output.
 
@@ -20,7 +20,7 @@ A Python application that uses Gemini and Pydantic to extract structured informa
 
 
 
-\### Task 02 – Document Intelligence RAG Assistant
+### Task 02 – Document Intelligence RAG Assistant
 
 A document question-answering application that loads PDF and text files, creates embeddings, stores them in ChromaDB, and retrieves relevant context to generate answers.
 
@@ -30,7 +30,7 @@ A document question-answering application that loads PDF and text files, creates
 
 
 
-\### Task 03 – Tool-Calling AI Agent
+### Task 03 – Tool-Calling AI Agent
 
 An AI agent that autonomously uses external tools, including web search, a calculator, and a local file reader, to answer user queries.
 
@@ -40,7 +40,7 @@ An AI agent that autonomously uses external tools, including web search, a calcu
 
 
 
-\### Task 04 – Streamlit Conversational AI Web Application
+### Task 04 – Streamlit Conversational AI Web Application
 
 A conversational AI web application with streaming responses, chat history, session management, and tool-calling capabilities.
 
@@ -50,7 +50,7 @@ A conversational AI web application with streaming responses, chat history, sess
 
 
 
-\## Repository Structure
+## Repository Structure
 
 
 
@@ -74,7 +74,7 @@ Datheon\_Python\_Generative\_AI\_LangChain\_Internship/
 
 
 
-\## Getting Started
+## Getting Started
 
 
 
@@ -98,7 +98,7 @@ To run a project:
 
 
 
-\## Internship Submission
+## Internship Submission
 
 
 
